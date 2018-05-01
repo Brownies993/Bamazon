@@ -2,7 +2,9 @@
 Overview
 
 In this activity, you'll be creating an Amazon-like storefront with the MySQL skills you learned this week. The app will take in orders from customers and deplete stock from the store's inventory. As a bonus task, you can program your app to track product sales across your store's departments and then provide a summary of the highest-grossing departments in the store.
-
+// SCREEN SHOT
+/Users/abher99/Desktop/RUTSOM201801FSF4-Class-Repository-FSF/GitHub/Bamazon/Screen Shot 2018-04-22 at 11.29.25 PM.png
+//
 Make sure you save and require the MySQL and Inquirer npm packages in your homework files--your app will need them for data input and storage.
 
 Submission Guide
